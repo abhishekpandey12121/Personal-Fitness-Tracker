@@ -23,8 +23,8 @@ The Personal Fitness Tracker is a web application built with Streamlit that allo
 ### Installation
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone (https://github.com/abhishekpandey12121/Personal-Fitness-Tracker)
+  
 2. Install Required Libraries:
 pip install streamlit pandas scikit-learn seaborn matplotlib
 
