@@ -60,12 +60,6 @@ Contact
 For any questions or further information, please contact Abhishek Pandey at abhishekpandey12121@gmail.com
 
 
-### Customization:
-- Replace `<your-repo-url>` and `<your-repo-directory>` with the actual URL and directory of your repository.
-- Update the contact information with your details.
-- Add any additional sections or details specific to your project as needed.
-
-This `README.md` file provides a comprehensive overview of your project and guides users on how to set up and use the application.
 
 
 
